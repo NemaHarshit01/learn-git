@@ -2,5 +2,6 @@
 <head> heading </head>
 <body>
 <li> list option added</li>
+<p> paragraph added </p>
  </body>
 </html>
